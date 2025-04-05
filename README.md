@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨Hi Im Amirabolfazl!<br>🔥 I'm A Web Designer And Developer!<br>🔧 I'm Working Backend And Frontend.<br>🎓 I Have Just 16 Years Old!<br>🏆 I have been programming for about 10 years :)<br>🏚 I am from Yazd in Iran.
+✨Hi Im Amirabolfazl!<br>🔥 I'm A Web Designer And Developer!<br>🔧 I'm Working Backend And Frontend.<br>🏆 I have been programming for about 10 years :)<br>🏚 I am from Yazd in Iran.
 
 
 ## 🌐 Socials:
